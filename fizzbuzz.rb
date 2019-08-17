@@ -10,5 +10,4 @@ def fizzbuzz(number)
   elseif
     nil
   end
-
 end
